@@ -54,6 +54,8 @@ Ensure you have the following installed:
 - Scalable and adaptable for university-level academic analysis.  
 
 ![University Results Dashboard](https://github.com/Praveen9821/Result-Management-System/blob/main/newplot.png?raw=true)
+
+![University Results Dashboard](https://github.com/Praveen9821/Result-Management-System/blob/main/newplot%202.png?raw=true)
 ---
 
 ## **Future Enhancements**
