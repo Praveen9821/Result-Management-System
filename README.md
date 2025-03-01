@@ -53,6 +53,7 @@ Ensure you have the following installed:
 - Real-time insights into student performance trends.  
 - Scalable and adaptable for university-level academic analysis.  
 
+![University Results Dashboard](https://github.com/Praveen9821/Result-Management-System/blob/main/newplot.png?raw=true)
 ---
 
 ## **Future Enhancements**
